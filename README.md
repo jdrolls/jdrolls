@@ -1,4 +1,4 @@
-# Jonathan R
+# JDR
 
 Practical AI systems, built to be inspected.
 
